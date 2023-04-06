@@ -25,6 +25,9 @@ export default {
           950: 'rgb(var(--tw-color-primary-950) / <alpha-value>)',
         },
         dark: '#222222',
+        blue: {
+          950: '#022D58',
+        }
       },
       keyframes: {
         flicker: {
@@ -50,6 +53,15 @@ export default {
       animation: {
         flicker: 'flicker 3s linear infinite',
         shimmer: 'shimmer 1.3s linear infinite',
+      },
+      backgroundImage: {
+        'corpBanner': "url('./images/banner.png')",
+      },
+      height: {
+        banner1: "856px",
+      },
+      width: {
+        banner1: "1440px",
       },
     },
   },

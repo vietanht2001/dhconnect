@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .c-link {
-  @apply text-black 
+  @apply text-white 
   hover:text-yellow-600
   transition 
   duration-300 
@@ -12,7 +12,7 @@
 .c-menu {
   @apply fixed 
   top-0 
-  left-0 
+  left-0
   w-full 
   h-screen 
   flex flex-col 
