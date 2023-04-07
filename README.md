@@ -1,14 +1,14 @@
-# Next.js + Tailwind CSS + TypeScript Starter and Boilerplate
+# Vinadihum Website
 
 <div align="center">
   <h2>🔋 Vinadihum Website</h2>
-  <p> Website .</p>
+  <p> Website for learning and connecting with Digital Humanists in Vietnam.</p>
   <p>Made by <a href="https://https://vinadihum.org"> Digital Humanities in Vietnam Project Team</a></p>
 
 </div>
 
 
-## Project using ts-nextjs-tailwind-starter
+## Project using Next.js + Tailwind CSS + TypeScript Starter and Boilerplate
 
 <!--
 TEMPLATE
